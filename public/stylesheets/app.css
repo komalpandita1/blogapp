@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dela+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dela+Gothic+One&family=Montserrat:ital@1&display=swap');
+
+i.icon {
+font-size: 2em;
+}
+
+.container.main  {
+    margin-top: 7.0em;
+}
+
+.blogheading h2{
+    margin-top: 4.0em;
+}
+
+#delete {
+    display:inline;
+}
+
+body{
+    background-color:rgb(0, 0, 0);
+}
+
+.ui.huge.header{
+    color:maroon;
+    text-shadow: 0px 0px 10px maroon;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.ui.inverted.menu.home.new:hover{
+    background-color:maroon;
+}
+
+.ui[class*="top attached"].segment{
+    background-color:rgb(0, 0, 0);
+}
+
+.ui.items>.item>.content>.header:not(.ui) {
+    color:maroon;
+    text-decoration: underline;
+}
+
+.ui.items>.item .meta :last-child{
+    color:rgb(105,105,105);
+}
+
+.ui.items>.item>.content>.description{
+    color:rgb(128,128,128);
+    font-family: 'Courgette', cursive;
+font-family: 'Dela Gothic One', cursive;
+}
+
+.segment{
+    color:white;
+}
+
+span .date{
+    color:maroon;
+}
+
+div .content{
+    color:maroon;
+}
+
+div .description{
+    color:white;
+    font-family: 'Courgette', cursive;
+font-family: 'Dela Gothic One', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+
+.ui.form .field>label{
+    color: rgb(128,128,128);
+}
+
+.ui.text.container{
+    background-color:black;
+}
+
+.right.chevron.icon{
+padding-top:5px;
+}
